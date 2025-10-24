@@ -19,7 +19,7 @@ npm install
 Create a `.env.local` file with your OpenAI API key:
 
 ```env
-OPEN_AI_SECRET_KEY="your_secret_key_here"
+OPENAI_API_KEY="your_secret_key_here"
 ```
 
 **3. Run:**
